@@ -31,5 +31,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A React App to track how many times The Haunting of Bly Manor scares you. I made this app while watching the first episode of Netflix's The Haunting of Bly Manor.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaalexandriaaa/haunt-count.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaalexandriaaa/haunt-count/issues"
+  },
+  "homepage": "https://github.com/aaalexandriaaa/haunt-count#readme"
 }
