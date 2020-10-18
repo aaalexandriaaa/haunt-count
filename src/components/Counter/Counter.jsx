@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import './Counter.css'
 
 class Counter extends Component {
     state = {
@@ -11,9 +11,14 @@ class Counter extends Component {
             count: count + 1
         }));
     };
-
     render() {
-        return <button onClick={this.handleClick}>{this.state.count}</button>;
+        return (
+            <div className="div">
+                <h2>Total Scares: {this.state.count}</h2>
+                <hr></hr>
+                <button onClick={this.handleClick}>Add a Scare</button>
+            </div >
+        );
     }
 }
 

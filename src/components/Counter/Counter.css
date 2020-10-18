@@ -1,0 +1,22 @@
+button {
+    margin: 0px 25px;
+    padding: 10px 35px;
+    background-color: #f7b23a;
+    box-shadow: 2px 2px #8a5802;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.div {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+hr {
+    border: 3px solid #9e0202;
+    border-radius: 5px;
+}
