@@ -4,6 +4,8 @@ import NavBar from '../components/NavBar/NavBar';
 import Counter from '../components/Counter/Counter'
 
 function App() {
+
+  
   return (
     <div className="App">
       <NavBar />  
