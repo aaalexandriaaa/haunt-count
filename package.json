@@ -1,5 +1,5 @@
 {
-  "name": "haunt-count",
+  "name": "scare-count",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,13 +37,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaalexandriaaa/haunt-count.git"
+    "url": "git+https://github.com/aaalexandriaaa/scare-count.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aaalexandriaaa/haunt-count/issues"
+    "url": "https://github.com/aaalexandriaaa/scare-count/issues"
   },
-  "homepage": "https://github.com/aaalexandriaaa/haunt-count#readme"
+  "homepage": "https://github.com/aaalexandriaaa/scare-count#readme"
 }
